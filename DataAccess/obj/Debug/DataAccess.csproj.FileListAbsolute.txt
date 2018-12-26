@@ -1,0 +1,11 @@
+C:\Users\exper\Desktop\aspnet\ASPCrud\ASPCrud\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\exper\Desktop\aspnet\ASPCrud\ASPCrud\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\exper\Desktop\aspnet\ASPCrud\ASPCrud\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\exper\Desktop\aspnet\ASPCrud\ASPCrud\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\exper\Desktop\aspnet\ASPCrud\ASPCrud\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\exper\Desktop\aspnet\ASPCrud\ASPCrud\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\exper\Desktop\Desktop\aspnet\ASPCrud\ASPCrud\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\exper\Desktop\Desktop\aspnet\ASPCrud\ASPCrud\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\exper\Desktop\Desktop\aspnet\ASPCrud\ASPCrud\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\exper\Desktop\Desktop\aspnet\ASPCrud\ASPCrud\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\exper\Desktop\Desktop\aspnet\ASPCrud\ASPCrud\DataAccess\obj\Debug\DataAccess.pdb

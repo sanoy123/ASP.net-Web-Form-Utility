@@ -1,0 +1,14 @@
+C:\Users\exper\Desktop\aspnet\ASPCrud\ASPCrud\Business\bin\Debug\Business.dll
+C:\Users\exper\Desktop\aspnet\ASPCrud\ASPCrud\Business\bin\Debug\Business.pdb
+C:\Users\exper\Desktop\aspnet\ASPCrud\ASPCrud\Business\bin\Debug\DataAccess.dll
+C:\Users\exper\Desktop\aspnet\ASPCrud\ASPCrud\Business\bin\Debug\DataAccess.pdb
+C:\Users\exper\Desktop\aspnet\ASPCrud\ASPCrud\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\exper\Desktop\aspnet\ASPCrud\ASPCrud\Business\obj\Debug\Business.dll
+C:\Users\exper\Desktop\aspnet\ASPCrud\ASPCrud\Business\obj\Debug\Business.pdb
+C:\Users\exper\Desktop\Desktop\aspnet\ASPCrud\ASPCrud\Business\bin\Debug\Business.dll
+C:\Users\exper\Desktop\Desktop\aspnet\ASPCrud\ASPCrud\Business\bin\Debug\Business.pdb
+C:\Users\exper\Desktop\Desktop\aspnet\ASPCrud\ASPCrud\Business\bin\Debug\DataAccess.dll
+C:\Users\exper\Desktop\Desktop\aspnet\ASPCrud\ASPCrud\Business\bin\Debug\DataAccess.pdb
+C:\Users\exper\Desktop\Desktop\aspnet\ASPCrud\ASPCrud\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\exper\Desktop\Desktop\aspnet\ASPCrud\ASPCrud\Business\obj\Debug\Business.dll
+C:\Users\exper\Desktop\Desktop\aspnet\ASPCrud\ASPCrud\Business\obj\Debug\Business.pdb
